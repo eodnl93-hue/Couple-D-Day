@@ -1,0 +1,8 @@
+{
+  "name": "Couple D-Day & Memories",
+  "description": "A sentimental couple app to track relationship days and record precious memories in an SNS-style feed.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
